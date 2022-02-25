@@ -1,0 +1,1 @@
+Este projeto foi realizado durante as aulas do curso de JavaScript realizado pelo professor [@gustavoguanabara](https://github.com/gustavoguanabara) que ministra as aulas no Curso Em Vídeo
